@@ -1,4 +1,5 @@
-1.  **DOM manipulation is essential:** This project reinforced how to dynamically modify HTML elements with JavaScript based on user input, like adding error classes or displaying messages.
-2.  **Real-time validation enhances UX:** Implementing immediate feedback through input validation significantly improves the user experience by preventing submission errors.
-3.  **Attention to detail:** Putting up right validation logic, including email format, password matching, and length constraints requires careful planning and testing.
+1. DOM manipulation: This project taught me how to dynamically change HTML elements with JavaScript language depending on user input like adding error/success classes and showing messages.
 
+2. Realtime validation improves UX: By Implementing instant feedback through input validation greatly improves the user experience by avoiding submission errors.
+
+3. Detailing and logic: Writing the right validation logic like email format, password matching and length restrictions requires involves planning and testing.
