@@ -1,4 +1,6 @@
-# Meta Front End Developer Capstone Project
+# Front End projects 
 
-Designed a front web page for a restuarant called "Little Lemon".
+1. Designed a front web page for a restuarant called "Little Lemon".
+
+2. Form Validator 
 
