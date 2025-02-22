@@ -6,5 +6,7 @@
 
 3. Movie Booking Page.
 
-4. Custom designed Video Player 
+4. Custom designed Video Player
+
+5. Universal Exchange Rate Calculator 
 
