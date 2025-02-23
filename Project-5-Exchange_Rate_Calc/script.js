@@ -23,7 +23,7 @@ function calculate() {
 
         rateE1.innerText= `1 ${currency_one} = ${rate} ${currency_two}`;
     
-        amountE2.value=(amountE1.value *rate);
+        amountE2.value=(amountE1.value *rate).toFixed(2);
     });
 
 }
