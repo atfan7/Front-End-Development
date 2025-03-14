@@ -8,5 +8,7 @@
 
 4. Custom designed Video Player
 
-5. Universal Exchange Rate Calculator 
+5. Universal Exchange Rate Calculator
+
+6. Modal and Menu Slider functionalities 
 
