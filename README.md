@@ -12,3 +12,4 @@
 
 6. Modal and Menu Slider functionalities 
 
+7. Meal Scanner with API
