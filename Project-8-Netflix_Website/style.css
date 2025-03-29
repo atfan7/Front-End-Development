@@ -1,0 +1,260 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    margin:0%;
+    background-color: black;
+}
+
+.main {
+    width:100%;
+    
+    height:70vh;
+    background-image: url("images/backimg.jpg");
+    background-size: cover;
+    
+}
+
+header {
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    
+}
+
+.logo, nav {
+    width:50%;
+    height: 100%;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    
+    }
+.logo img{
+    width: 250px;
+    float: left;
+    
+}
+
+
+
+nav button ,nav select{
+    width:150px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    float: right;
+    cursor: pointer;
+    margin: 2px;
+    padding: 0;
+    font-size: 15px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+   
+    
+}
+nav button {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+}
+
+
+
+
+.content{
+    width: 100%;
+    height:80vh;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.content h1{
+    font-size: 70px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+.content p{
+    font-size: 24px;
+    font-weight: 100;
+    
+
+}
+
+.content input, .upfooter input{
+    width:350px;
+    height: 55px;
+    padding: 15px;
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    border-radius: 40px;
+    font-size: 20px;
+
+    
+}
+
+.content button,.upfooter button {
+    width: 170px;
+    height: 55px;
+    border: 1px solid white;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius:40px;
+    padding: 15px;
+    font-weight: 450;
+    font-family:'Times New Roman', Times, serif
+
+
+}
+
+.trending,.reason{
+    width: 80%;
+
+    
+    margin:auto;
+    display: flex;
+    
+    padding: 20px;
+    
+    
+    color: white;
+    
+    
+
+}
+.reason figure{
+    width: 100%;                    
+    height: 250px;                 
+    padding: 10px; 
+                
+}
+
+
+.trending .trend {
+    margin: auto;
+    width: 100%;
+
+}
+
+.trend img{
+    margin: 20px;
+
+   
+    
+   
+    
+}
+.hh1,.more,.FA,.upfooterhead{
+    text-align: left;
+    color:beige;
+    background-color: black;
+    width: 80%;
+    margin: auto;
+    padding-top: 25px;
+}
+
+.reason figure{
+    margin: 5px;;
+    border: 1px solid beige;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+.faq{
+    width: 80%;
+    margin: auto;
+    
+
+
+    
+
+}
+
+.faq details {
+    background-color:rgb(33, 55, 55);
+    padding: 28px;
+    margin: 10px 0;
+    border-radius: 14px;
+    color: white;
+    text-align: left;
+}
+
+.faq summary {
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.faq details p {
+    margin-top: 10px;
+    font-size: 16px;
+    
+}
+.upfooterhead{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.upfooter{
+    width: 80%;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    
+}
+
+.ques{
+    width: 80%;
+    color: white;
+    margin: auto;
+    
+}
+
+.foot{
+    width: 80%;
+    margin: auto;
+    color: white;
+    
+
+}
+.footitems{
+    display: flex;
+    width: 100%;
+   
+    text-align: left;
+    justify-content: left;
+    list-style: none;
+    margin: auto;
+    
+}
+
+.footitems ol li{
+    list-style: none;
+    margin:20px;
+    font-size: 15px;
+    text-decoration: underline;
+
+}
+
+.footer{
+    color: white;
+    width: 80%;
+    
+    margin: auto;
+    
+    color:aqua;
+    text-align: center;
+}
