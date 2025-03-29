@@ -144,7 +144,13 @@ nav button {
 .trending .trend {
     margin: auto;
     width: 100%;
+    transition:transform 0.2s ease;
 
+}
+
+.trending .trend:hover{
+    transform: scale(1.2);
+    cursor: pointer;
 }
 
 .trend img{
@@ -180,6 +186,10 @@ nav button {
 
     
 
+}
+.faq:hover{
+    cursor: pointer;
+    
 }
 
 .faq details {
