@@ -13,3 +13,7 @@
 6. Modal and Menu Slider functionalities 
 
 7. Meal Scanner with API
+
+8. Netflix Website
+
+9. Rapido BikeRent Website
